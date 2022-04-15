@@ -28,7 +28,7 @@ export default function Animais({route, navigation}) {
         <View style={styles.container}>         
           
           <Text style={styles.title}>Meus Animais<MaterialCommunityIcons name="cow" color={'#fff'} size={30} /></Text>
-          <Text style={styles.info}>Selecione um tipo de registro.</Text>
+          <Text style={styles.info}>Selecione um tipo de registro</Text>
           
           {/** INICIO DO CARD */}
           <View style={styles.container}>
