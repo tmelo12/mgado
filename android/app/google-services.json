@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "793269638073",
+    "project_id": "meugado-9f30b",
+    "storage_bucket": "meugado-9f30b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793269638073:android:178881f6a3dc965e791c68",
+        "android_client_info": {
+          "package_name": "com.meugado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793269638073-af2co2u35a1s4tonckd966k3fr0io9b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meugado",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "793269638073-c2nk9de8kfvn3507ui3sacniio97r3k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAza2qUkJ2Ay7TB-QEulvPK8XN643ApofM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793269638073-c2nk9de8kfvn3507ui3sacniio97r3k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
