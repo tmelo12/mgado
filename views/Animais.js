@@ -27,7 +27,7 @@ export default function Animais({route, navigation}) {
       <ScrollView>
         <View style={styles.container}>         
           
-          <Text style={styles.title}>Meus Animais<MaterialCommunityIcons name="cow" color={'#fff'} size={30} /></Text>
+          <Text style={styles.title}>Meus Animais Cadastrados<MaterialCommunityIcons name="cow" color={'#fff'} size={30} /></Text>
           <Text style={styles.info}>Selecione um tipo de registro.</Text>
           
           {/** INICIO DO CARD */}
